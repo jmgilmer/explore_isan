@@ -1,0 +1,5 @@
+This project contains a simple Ipython notebook used to explore the ISAN model
+described here: http://openreview.net/pdf?id=H1MjAnqxg. The saved model is in
+the data folder and will be loaded in the notebook.
+
+Disclaimer: This is not an official Google product.
